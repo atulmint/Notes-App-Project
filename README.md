@@ -20,6 +20,3 @@ A simple **Notes Application** built using **React** while learning core fronten
 - Vite
 - Tailwind CSS
 - JavaScript (ES6)
-
----
-
