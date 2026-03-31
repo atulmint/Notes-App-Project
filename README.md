@@ -23,6 +23,6 @@ A simple **Notes Application** built using **React** while learning core fronten
 
 ---
 
-## ⚙️ Run Locally
+## ⚙️ Run
 
 
