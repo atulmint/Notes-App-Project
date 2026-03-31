@@ -25,8 +25,4 @@ A simple **Notes Application** built using **React** while learning core fronten
 
 ## ⚙️ Run Locally
 
-```bash
-git clone https://github.com/atulmint/Notes-App-Project.git
-cd Notes-App-Project
-npm install
-npm run dev
+
